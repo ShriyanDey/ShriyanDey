@@ -4,11 +4,11 @@
 
 <h3>About me</h3>
 
-- 🧠 I'm a rising senior at the **University of Washington** studying Computer Science
+- 🏫 I'm a rising senior at the **University of Washington** studying Computer Science
 
-- 🔥 I'm currently a SWE Intern @ **Databricks** on the Lakeflow Connect team
+- 🧱 I'm currently a SWE Intern @ **Databricks** on the Lakeflow Connect team
 
-- 🔭 Interested in **ML systems** and distributed systems research 
+- 💭 Interested in **ML systems** and distributed systems research 
 
 - 📫 Reach me at **shriyandey@gmail.com**
 
