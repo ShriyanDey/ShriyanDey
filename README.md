@@ -5,9 +5,13 @@
 <h3>About me</h3>
 
 - 🏫 I'm a rising senior at the **University of Washington** studying Computer Science
+  
 - 🧱 I'm currently a SWE Intern @ **Databricks** on the Lakeflow Connect team
+  
 - 💭 Interested in ML systems, distributed systems, and data infrastructure
+  
 - 📫 Reach me at shriyandey [at] gmail [dot] com
+  
 - 🌐 Let's connect on [LinkedIn](https://linkedin.com/in/shriyandey)!
 
 <hr/>
