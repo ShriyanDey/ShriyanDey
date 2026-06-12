@@ -135,11 +135,6 @@
 
   <td align='center' width='33%' valign='top'><table width='100%'><tr>
     <td align="center" style="padding: 8px;">
-      <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg" alt="LangChain" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center" style="padding: 8px;">
       <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/MFarabi619/MFarabi619/5a4606bb573657a028ae5b2583f58ea151268667/Markdown%20Sections/Section%20Data/express_logo.svg" alt="Express" width="40" height="40" />
       </a>
