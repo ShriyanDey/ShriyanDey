@@ -6,7 +6,7 @@
 
 - 🏫 I'm a rising senior at the **University of Washington** studying Computer Science
   
-- 🧱 I'm currently a SWE Intern @ **Databricks** on the Lakeflow Connect team
+- 🧱 I'm currently a **SWE Intern @ Databricks** on the Lakeflow Connect team
   
 - 💭 Interested in ML systems, distributed systems, and data infrastructure
   
