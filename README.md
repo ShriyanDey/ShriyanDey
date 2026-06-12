@@ -10,8 +10,8 @@
   
 - 💭 Interested in ML systems, distributed systems, and data infrastructure
   
-- 📫 Reach me at shriyandey [at] gmail [dot] com
+- 📫 Reach me at **shriyandey [at] gmail [dot] com**
   
-- 🌐 Let's connect on [LinkedIn](https://linkedin.com/in/shriyandey)!
+- 🤝 Let's connect on [LinkedIn](https://linkedin.com/in/shriyandey)!
 
 <hr/>
