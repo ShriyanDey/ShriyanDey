@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=shriyandey&color=blue" alt="Profile views" />
 
-<h3>About me</h3>
+<h3>About Me</h3>
 
 - 🏫 I'm a rising senior at the **University of Washington** studying Computer Science
   
