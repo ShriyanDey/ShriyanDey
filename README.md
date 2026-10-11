@@ -4,9 +4,9 @@
 
 <h3>About Me</h3>
 
-- 🏫 I'm a rising senior at the **University of Washington** studying Computer Science
+- 🏫 **University of Washington Computer Science** alum (since December 2026)
   
-- 🧱 I'm currently a **SWE Intern @ Databricks** on the Lakeflow Connect team
+- 🧱 Planning on join **Databricks** in April working on Pipeline Compute team under Lakeflow Connect
   
 - 💭 Interested in ML systems, distributed systems, and data infrastructure
   
