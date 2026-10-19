@@ -4,10 +4,8 @@
 
 <h3>About Me</h3>
 
-- 🏫 **University of Washington Computer Science** alum (since December 2026)
-  
-- 🧱 Planning on join **Databricks** in April working on Pipeline Compute team under Lakeflow Connect
-  
+- 🏫 **University of Washington Computer Science** alum
+    
 - 💭 Interested in ML systems, distributed systems, and data infrastructure
   
 - 📫 Reach me at **shriyandey [at] gmail [dot] com**
