@@ -5,6 +5,8 @@
 <h3>About Me</h3>
 
 - 🐺 **University of Washington Computer Science** alum
+
+- 🧱 Software Engineer @ Databricks, working on making pipeline workloads more efficient
     
 - 🧐 Interested in ML systems, distributed systems, and data infrastructure
   
