@@ -4,9 +4,9 @@
 
 <h3>About Me</h3>
 
-- 🐺 **University of Washington Computer Science** alum
+- 🐺 Studying **Computer Schience** and the **University of Washington**
 
-- 🧱 Incoming Software Engineer @ Databricks
+- 🧱 Incoming Software Engineer @ Databricks in Mountain View this spring
     
 - 🧐 Interested in ML systems, distributed systems, and data infrastructure
   
