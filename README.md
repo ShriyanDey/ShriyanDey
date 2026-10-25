@@ -6,7 +6,7 @@
 
 - 🐺 **University of Washington Computer Science** alum
 
-- 🧱 Software Engineer @ Databricks, working on making pipeline workloads more efficient
+- 🧱 Incoming Software Engineer @ Databricks
     
 - 🧐 Interested in ML systems, distributed systems, and data infrastructure
   
