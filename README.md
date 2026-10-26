@@ -4,12 +4,12 @@
 
 <h3>About Me</h3>
 
-- 🐺 Studying **Computer Schience** and the **University of Washington**
-
-- 🧱 Incoming Software Engineer @ Databricks in Mountain View this spring
-    
-- 🧐 Interested in ML systems, distributed systems, and data infrastructure
+- 🐺 Studying **Computer Science** at the **University of Washington**
   
-- 📫 Reach me at **shriyandey [at] gmail [dot] com** or through [LinkedIn](https://linkedin.com/in/shriyandey)!
+- 🧱 Incoming **Software Engineer @ Databricks** in Mountain View (spring 2027)
+
+- 🧐 Interested in ML systems, distributed systems, and data infrastructure
+
+- 📫 Reach me at shriyandey [at] gmail [dot] com or through [LinkedIn](https://linkedin.com/in/shriyandey)!
 
 <hr/>
