@@ -5,8 +5,6 @@
 <h3>About Me</h3>
 
 - 🐺 Studying **Computer Science** at the **University of Washington**
-  
-- 🧱 Incoming **Software Engineer @ Databricks** in Mountain View (spring 2027)
 
 - 🧐 Interested in ML systems, distributed systems, and data infrastructure
 
